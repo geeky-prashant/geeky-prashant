@@ -30,6 +30,6 @@
 [![Prashant's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=geeky-prashant&&theme=xcode)](https://github.com/geeky-prashant)
 
 <p float="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=geeky-prashant&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="geeky-prashant" width="47%" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=geeky-prashant&&theme=tokyonight" alt="geeky-prashant" width="47%" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=geeky-prashant&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="geeky-prashant" width="45%" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=geeky-prashant&&theme=tokyonight" alt="geeky-prashant" width="45%" />
 </p>
