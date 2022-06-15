@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prashant Bhardwaj</h1>
-<h3 align="center">A Passionate Frontend Developer from India💎</h3>
+<h3 align="center">A Passionate Frontend Developer & an Enthusiast Learner💎</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geeky-prashant&label=Profile%20views&color=0e75b6&style=flat" alt="geeky-prashant" /> </p>
@@ -30,6 +30,6 @@
 [![Prashant's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=geeky-prashant&&theme=xcode)](https://github.com/geeky-prashant)
 
 <p float="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=geeky-prashant&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="geeky-prashant" width="44%" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=geeky-prashant&&theme=tokyonight" alt="geeky-prashant" width="44%" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=geeky-prashant&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="geeky-prashant" width="43%" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=geeky-prashant&&theme=tokyonight" alt="geeky-prashant" width="43%" />
 </p>
