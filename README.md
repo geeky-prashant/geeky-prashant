@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/geeky-prashant/geeky-prashant/main/GitHub%20Banner.png)
+![GitHub Banner Desktop Demo](./readme-images/GitHub-Banner.png "Desktop Demo")
 <h1 align="center">Hi, 👋 I'm Prashant Bhardwaj</h1>
 <h3 align="center">A Passionate Full Stack Web Developer & an Enthusiast Learner💎</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif">
