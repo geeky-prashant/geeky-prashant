@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [geekyprashant.com](geekyprashant.com)
 
-- 💬 Ask me about **HTML5,CSS3,Javascript,Bootstrap,React.js, Next.js and Typescript**
+- 💬 Ask me about **HTML5, CSS3, Bootstrap, Tailwind CSS, Javascript, WordPress, GIT & GitHub**
 
 - 📫 How to reach me **geekyprashant840@gmail.com**
 
