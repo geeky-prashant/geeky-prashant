@@ -1,5 +1,5 @@
 ![GitHub Banner Desktop Demo](./readme-images/GitHub-Banner.png "Desktop Demo")
-<h1 align="center">Hi, 👋 I'm Prashant Bhardwaj</h1>
+<h1 align="center">Hi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="28"> I'm Prashant Bhardwaj</h1>
 <h3 align="center">A Passionate Frontend Developer & an Enthusiast Learner 💎</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif">
 
