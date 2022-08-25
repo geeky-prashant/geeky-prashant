@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **#100daysofCode Challenge**
 
-- 🌱 I’m currently learning **Javascript & React.js**
+- 🌱 I’m currently learning **JavaScript & React.js**
 
 - 👨‍💻 All of my projects are available at [geekyprashant.com](geekyprashant.com)
 
