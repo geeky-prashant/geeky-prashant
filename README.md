@@ -46,4 +46,4 @@
 <br/>
 <br/>
 
-[![Prashant Bhardwaj Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=geeky-prashant&custom_title=This%20is%20a%20my%20stats&hide_border=true)](https://github.com/geeky-prashant/github-readme-activity-graph)
+[![Prashant Bhardwaj Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=geeky-prashant&custom_title=This%20is%20a%20my%20stats&hide_border=true&radius=15&theme=react-dark)](https://github.com/geeky-prashant/github-readme-activity-graph)
