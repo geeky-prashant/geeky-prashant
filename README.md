@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript & React.js**
 
-- 👨‍💻 All of my projects are available at [geekyprashant.com](geekyprashant.com)
+- 👨‍💻 All of my projects are available at [https://geekyprashant.com](https://geekyprashant.com)
 
 - 💬 Ask me about **HTML5, CSS3, Tailwind CSS, JavaScript, GIT & GitHub**
 
