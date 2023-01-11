@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **HTML5, CSS3, Tailwind CSS, JavaScript, GIT & GitHub**
 
-- 📫 How to reach me **geekyprashant840@gmail.com**
+- 📫 Drop a mail at **geekyprashant840@gmail.com**
 
 - ⚡ Fun fact **I❤️coffee with coding and I'm extremely funny personality😀**
 
