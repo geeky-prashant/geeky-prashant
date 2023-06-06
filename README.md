@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **#100daysofJavaScript Challenge on LinkedIn**
 
-- 🌱 I’m currently learning **React.js & Next.js**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://geekyprashant.com](https://geekyprashant.com)
 
-- 💬 Ask me about **HTML5, CSS3, Tailwind CSS, SASS, Styled Components, Material UI, JavaScript, React.js, GIT & GitHub.**
+- 💬 Ask me about **HTML5, CSS3, Tailwind CSS, SCSS, Styled Components, Material UI, JavaScript, Typescript, React.js, Next.js, React Native, Redux Toolkit, Strapi, GIT & GitHub.**
 
 - 📫 Drop a mail at **geekyprashant840@gmail.com**
 
