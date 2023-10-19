@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geeky-prashant&label=Profile%20views&color=0e75b6&style=flat" alt="geeky-prashant" /> </p>
 
-- 🔭 I’m currently working on **Next.js and React Native**
+- 🔭 I’m currently working on **#360DaysofCode Challenge on LinkedIn**
 
-- 🌱 I’m currently learning **Next.js and React Native**
+- 🌱 I’m currently learning **Next.js, TypeScript, TailwindCSS, Prisma, and MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://geekyprashant.com](https://geekyprashant.com)
 
