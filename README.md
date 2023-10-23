@@ -1,11 +1,11 @@
 ![GitHub Banner Desktop Demo](./readme-images/GeekyPrashant-GitHub-Banner.png "Desktop Demo")
 <h1 align="center">Hi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="32"> I'm Prashant Bhardwaj</h1>
-<h3 align="center">A Passionate Full Stack Developer & an Enthusiast Learner 💎</h3>
+<h3 align="center">A Passionate Frontend Developer & an Enthusiast Learner 💎</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1025838/screenshots/6220885/devguy3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geeky-prashant&label=Profile%20views&color=0e75b6&style=flat" alt="geeky-prashant" /> </p>
 
-- 🔭 I’m currently working on **#360DaysofCode Challenge on LinkedIn**
+- 🔭 I’m currently working on **#365DaysofCode Challenge on LinkedIn**
 
 - 🌱 I’m currently learning **Next.js, TypeScript, TailwindCSS, Prisma, and MongoDB**
 
