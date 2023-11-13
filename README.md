@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geeky-prashant&label=Profile%20views&color=0e75b6&style=flat" alt="geeky-prashant" /> </p>
 
-- 🔭 I’m currently working on **#365DaysofCode Challenge on LinkedIn**
+- 🔭 I’m currently working on **#365DaysofCode Challenge publically on LinkedIn**
 
-- 🌱 I’m currently learning **Next.js, TypeScript, TailwindCSS, Prisma, and MongoDB**
+- 🌱 I’m currently learning **Next.js, TypeScript, TailwindCSS, Prisma, and MySQL**
 
 - 👨‍💻 All of my projects are available at [https://geekyprashant.com](https://geekyprashant.com)
 
-- 💬 Ask me about **HTML5, CSS3, Tailwind CSS, SCSS, Styled Components, Material UI, JavaScript, Typescript, React.js, Next.js, React Native, Redux Toolkit, Sanity, GIT & GitHub.**
+- 💬 Ask me about **HTML5, CSS3, Tailwind CSS, SCSS, JavaScript, Typescript, React.js, and Next.js**
 
 - 📫 Drop a mail at **geekyprashant840@gmail.com**
 
