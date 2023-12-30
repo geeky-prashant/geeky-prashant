@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently working on **#365DaysofCode Challenge publically on LinkedIn**
 
-- 🌱 I’m currently learning **Next.js, TypeScript, TailwindCSS, Prisma, and MySQL**
-
 - 👨‍💻 All of my projects are available at [https://geekyprashant.com](https://geekyprashant.com)
 
-- 💬 Ask me about **HTML5, CSS3, Tailwind CSS, SCSS, JavaScript, Typescript, React.js, and Next.js**
+- 💬 Ask me about **HTML5, CSS3, SCSS, JavaScript, Typescript, React.js, Next.js, TypeScript, TailwindCSS, Prisma, and MySQL**
 
 - 📫 Drop a mail at **geekyprashant840@gmail.com**
 
