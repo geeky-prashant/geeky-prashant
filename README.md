@@ -36,9 +36,6 @@
   <a href="https://github.com/geeky-prashant/github-readme-stats"><img alt="Prashant Bhardwaj's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=geeky-prashant&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
+  
 <br/>
 <br/>
-
-[![Prashant Bhardwaj Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=geeky-prashant&custom_title=This%20is%20a%20my%20stats&hide_border=true&radius=15&theme=react-dark)](https://github.com/geeky-prashant/github-readme-activity-graph)
