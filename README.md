@@ -15,6 +15,8 @@
 
 - ⚡ Fun fact **I❤️coffee with coding and I'm an extremely funny personality😀**
 
+<br/>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/geekyprashant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geekyprashant" height="30" width="40" /></a>
@@ -27,6 +29,8 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Prashant Bhardwaj's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=geeky-prashant&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+
+<br/>
 
 ## 📊 My Github Stats
 
