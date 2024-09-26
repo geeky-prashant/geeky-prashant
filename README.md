@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://geekyprashant.com](https://geekyprashant.com)
 
-- 💬 Ask me about **HTML5, CSS3, SCSS, JavaScript, Typescript, React.js, Next.js, TypeScript, TailwindCSS, and AWS**
+- 💬 Ask me about **React.js, Next.js, Tailwind CSS, TypeScript, Prisma, and MySQL**
 
 - 📫 Drop a mail at **geekyprashant840@gmail.com**
 
