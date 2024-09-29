@@ -13,7 +13,7 @@
 
 - 📫 Drop a mail at **geekyprashant840@gmail.com**
 
-- ⚡ Fun fact **I❤️coffee with coding and I'm an extremely funny personality😀**
+- ⚡ Fun fact **I ❤️ coffee with coding and I'm an extremely funny personality😀**
 
 <br/>
 
